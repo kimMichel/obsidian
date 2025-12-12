@@ -7,4 +7,3 @@ Interpreted query results are automatically displayed in the source code in the 
 You can control how analysis results are displayed in source code by modifying a query's ``select`` statement. You can make the results clear and easy for other users to understand while developing the query. When you write your own queries in the query console or in the CodeQL extension for Visual Studio Code, there are no constraints on what can be selected. 
 
 If you want to use a query to create alerts in Github code scanning or generate valid analysis results by using the CodeQL CLI, you need to make the ``select`` statement report results in the required format.
-

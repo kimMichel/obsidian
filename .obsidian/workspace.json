@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team Attack Lifecycle (Phases).md",
+                "file": "Certification/CRTA/1. Introduction to Red Teaming/Red Team Attack Lifecycle (Phases).md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team Attack Lifecycle (Phases).md",
+                "file": "Certification/CRTA/1. Introduction to Red Teaming/Red Team Attack Lifecycle (Phases).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,12 +185,14 @@
   },
   "active": "568719fb257ba8c8",
   "lastOpenFiles": [
-    "Pasted image 20251211233541.png",
-    "Certification/CRTA/Summary.md",
-    "Red Team Attack Lifecycle (Phases).md",
     "Certification/CRTA/1. Introduction to Red Teaming/What is Red Teaming.md",
-    "Certification/CRTA/1. Introduction to Red Teaming",
     "Understand CodeQL results.md",
+    "Certification/CRTA/Summary.md",
+    "Certification/CRTA/1. Introduction to Red Teaming/Red Team Attack Lifecycle (Phases).md",
+    "Certification/CRTA/images/Pasted image 20251211233541.png",
+    "Certification/CRTA/images",
+    "Certification/CRTA/images/Pasted image 20251211235526.png",
+    "Certification/CRTA/1. Introduction to Red Teaming",
     "Certification/CRTA",
     "Certification/GHAS/Summary.md",
     "Certification/GHAS/ISVC/Run CodeQL in a database.md",
@@ -220,8 +222,6 @@
     "Certification/GHAS/Configure Dependabot security updates on your GH repo/Dependabot alerts.md",
     "Certification/GHAS/images/Pasted image 20251204104255.png",
     "Certification/GHAS/Configure Dependabot security updates on your GH repo/Dependency review.md",
-    "Certification/GHAS/images/Pasted image 20251204110506.png",
-    "Certification/GHAS/images/Pasted image 20251204110439.png",
     "Certification/GHAS/Configure Dependabot security updates on your GH repo/Manage Dependabot notifications and reports.md",
     "Certification/GHAS/Configure Dependabot security updates on your GH repo/Dependabot security updates.md",
     "Security/Common Vulnerabilities and Exposure (CVE).md",
@@ -229,7 +229,6 @@
     "Security/MITRE.md",
     "Security/Common Weakness Enumeration (CWE).md",
     "Certification/GHAS/Introduction to Github Advanced Security",
-    "Certification/GHAS/Configure Dependabot security updates on your GH repo",
-    "Certification/GHAS/images"
+    "Certification/GHAS/Configure Dependabot security updates on your GH repo"
   ]
 }
