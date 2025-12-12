@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understand CodeQL results.md",
+                "file": "Red Team Attack Lifecycle (Phases).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understand CodeQL results"
+              "title": "Red Team Attack Lifecycle (Phases)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manage Dependabot notifications and reports.md",
+                "file": "Red Team Attack Lifecycle (Phases).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Manage Dependabot notifications and reports"
+              "title": "Backlinks for Red Team Attack Lifecycle (Phases)"
             }
           },
           {
@@ -185,8 +185,14 @@
   },
   "active": "568719fb257ba8c8",
   "lastOpenFiles": [
-    "Certification/GHAS/Summary.md",
+    "Pasted image 20251211233541.png",
+    "Certification/CRTA/Summary.md",
+    "Red Team Attack Lifecycle (Phases).md",
+    "Certification/CRTA/1. Introduction to Red Teaming/What is Red Teaming.md",
+    "Certification/CRTA/1. Introduction to Red Teaming",
     "Understand CodeQL results.md",
+    "Certification/CRTA",
+    "Certification/GHAS/Summary.md",
     "Certification/GHAS/ISVC/Run CodeQL in a database.md",
     "Certification/GHAS/images/Pasted image 20251208104057.png",
     "Certification/GHAS/ISVC/Prepare a database for CodeQL.md",
@@ -222,14 +228,8 @@
     "Security",
     "Security/MITRE.md",
     "Security/Common Weakness Enumeration (CWE).md",
-    "Certification/GHAS/Introduction to Github Advanced Security/Define GHAS and the importance of its integral features.md",
-    "Certification/GHAS/Introduction to Github Advanced Security/Understand GHAS and its role in the security ecosystem.md",
     "Certification/GHAS/Introduction to Github Advanced Security",
-    "Certification/GHAS/Configure Dependabot security updates on your GH repo/CDSU - Introduction.md",
-    "Certification/GHAS/Introduction to Github Advanced Security/Introduction.md",
     "Certification/GHAS/Configure Dependabot security updates on your GH repo",
-    "Certification/GHAS/images",
-    "Certification/GHAS",
-    "Certification"
+    "Certification/GHAS/images"
   ]
 }
