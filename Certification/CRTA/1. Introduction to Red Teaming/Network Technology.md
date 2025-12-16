@@ -1,0 +1,4 @@
+- Understanding of Network devices like routers, switches, servers, computers and network protocols in use at enterprise.
+- Mapping of users with their allotted systems, internal network architecture must be clear before the attacking phase.
+- We will be hunting for open TCP/UDP ports having some remote access services, unpatched/vulnerable services, to maintain initial foothold.
+- Latest/unstable software accessible over web or network have higher chance of in-built vulnerabilities.

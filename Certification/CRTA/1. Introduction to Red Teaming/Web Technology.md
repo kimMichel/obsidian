@@ -1,0 +1,3 @@
+- Knowledge of OWASP Top 10 Web Vulnerabilities should be known.
+- We may also encounter scenarios where we need to perform custom Web Exploitation (Chaining of Vulnerabilities).
+- Identification of Target's environment specifically for identification of Web Technologies are needed.

@@ -9,7 +9,7 @@
 	1.5.2 [[Network Technology]]
 	1.5.3 [[Cloud Technology]]
 	1.5.4 [[Physical Red Teaming]]
-	1.5.5 [[Wireless]]
+	1.5.5 [[Wireless Attacks]]
 
 # 2. Red Team Lab Setup
 
